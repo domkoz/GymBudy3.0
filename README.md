@@ -568,9 +568,3 @@ preferredPlateIncrement = 1.25
 - Warm-ups excluded: 2 warmups + 3 working sets (all ≥target) → progression applies.
 - Manual override to 3×10@62.5kg → baseline updates; progression resumes from override.
 - Two consecutive stalls with below-target sets → show deload suggestion.
-
----
-
-Rewrote progression precedence and per-exercise scope, defined “achieved,” excluded warm-ups, added equipment-aware rounding, and expanded acceptance criteria.
-
-Consolidated the full spec into a copy-ready document with updated data model and schema.
