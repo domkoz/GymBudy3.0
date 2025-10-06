@@ -1,0 +1,9 @@
+{
+  "unitSystem": "metric",
+  "defaultRestSeconds": 90,
+  "features": {
+    "auto_apply_progression": true,
+    "advanced_plate_math": false,
+    "recovery_awareness": false
+  }
+}

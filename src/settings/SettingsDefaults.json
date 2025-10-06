@@ -1,0 +1,8 @@
+{
+  "startingReps": 8,
+  "maxReps": 12,
+  "weightIncrementPercent": 5.0,
+  "minWeightIncrement": 2.5,
+  "preferredPlateIncrement": 1.25,
+  "autoIncrement": true
+}
