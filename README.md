@@ -1,4 +1,4 @@
-# GymBudy — Product Specification (v1.0)
+# GymBuddy — Product Specification (v1.0)
 
 Minimalist personal workout companion to reduce cognitive load, track meaningful progress, and remember intelligently.
 
