@@ -50,7 +50,7 @@ CREATE TABLE progression_events (
   id TEXT PRIMARY KEY,
   exercise_definition_id TEXT NOT NULL,
   date TEXT NOT NULL,
-  type TEXT CHECK(type IN ('repIncrease','weightIncrease')) NOT NULL,
+  type TEXT CHECK(type IN ('none','repIncrease','weightIncrease')) NOT NULL,
   old_value REAL,
   new_value REAL,
   note TEXT,
